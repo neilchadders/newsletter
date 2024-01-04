@@ -1,3 +1,5 @@
+
+<!-- cd /Applications/XAMPP/ -->
 <h1>Sign up for a my newsletter:</h1>
 
 
